@@ -16,7 +16,8 @@ I build with technology to make my everyday work better.
   unglamorous ops that hold it all together
 - Building Claude skills and agents for marketing workflows: brand voice, campaign briefs,
   reporting, and the repetitive stuff worth automating
-- Learning to build by building — side projects that scratch my own itches
+- Learning to build by building — side projects that scratch my own itches, like
+  [Reading Nook](https://github.com/moihars/reading-nook), a local-first book tracker
 
 ---
 
