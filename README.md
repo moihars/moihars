@@ -28,6 +28,7 @@ I build with technology to make my everyday work better.
 
 <p>
   <a href="https://northcivic.contra.com/"><img src="https://img.shields.io/badge/Portfolio-North_Civic-1A365D?style=flat" /></a>
+  <a href="https://www.linkedin.com/in/hretana/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" /></a>
   <a href="https://switchboard.live"><img src="https://img.shields.io/badge/Switchboard_Live-FF6B35?style=flat" /></a>
   <a href="https://heygov.com"><img src="https://img.shields.io/badge/HeyGov-2F855A?style=flat" /></a>
 </p>
