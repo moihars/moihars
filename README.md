@@ -15,8 +15,10 @@ I build with technology to make my everyday work better.
 - Running growth and comms for GovTech products — campaigns, lifecycle, content, and the
   unglamorous ops that hold it all together
 - Building Claude skills and agents for marketing workflows — like
-  [Brand Voice](https://github.com/moihars/brand-voice-skill), a fill-in-the-blank skill that teaches
-  an AI assistant to write in your brand's voice instead of nobody's
+  [Brand Voice](https://github.com/moihars/brand-voice-skill), which teaches an AI assistant to write
+  in your brand's voice instead of nobody's, and
+  [Carousel](https://github.com/moihars/carousel-skill), which turns a blog post into a
+  posting-ready LinkedIn and Instagram carousel
 - Learning to build by building — side projects that scratch my own itches, like
   [Reading Nook](https://github.com/moihars/reading-nook), a local-first book tracker
 
